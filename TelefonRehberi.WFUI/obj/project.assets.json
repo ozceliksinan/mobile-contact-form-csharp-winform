@@ -1,0 +1,251 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CsvHelper/2.11.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40-client/CsvHelper.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net40-client/CsvHelper.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "TelefonRehberi.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "CsvHelper": "2.11.0",
+          "Newtonsoft.Json": "12.0.3",
+          "TelefonRehberi.Core": "1.0.0",
+          "TelefonRehberi.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TelefonRehberi.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TelefonRehberi.BLL.dll": {}
+        }
+      },
+      "TelefonRehberi.Core/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "TelefonRehberi.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TelefonRehberi.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TelefonRehberi.Core.dll": {}
+        }
+      },
+      "TelefonRehberi.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TelefonRehberi.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TelefonRehberi.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsvHelper/2.11.0": {
+      "sha512": "mLrJK4Xeg7s7iZ2mN1NB8n8n81kPczYHOCldAyC0m6OteTJgMOdKsCd+rooXuEUzqGq+12JU8qdNAR4uDFXyYQ==",
+      "type": "package",
+      "path": "csvhelper/2.11.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "csvhelper.2.11.0.nupkg.sha512",
+        "csvhelper.nuspec",
+        "lib/net20/CsvHelper.dll",
+        "lib/net20/CsvHelper.pdb",
+        "lib/net20/CsvHelper.xml",
+        "lib/net35-client/CsvHelper.dll",
+        "lib/net35-client/CsvHelper.pdb",
+        "lib/net35-client/CsvHelper.xml",
+        "lib/net40-client/CsvHelper.dll",
+        "lib/net40-client/CsvHelper.pdb",
+        "lib/net40-client/CsvHelper.xml",
+        "lib/portable-sl4+wp71+windows8+net40/CsvHelper.dll",
+        "lib/portable-sl4+wp71+windows8+net40/CsvHelper.pdb",
+        "lib/portable-sl4+wp71+windows8+net40/CsvHelper.xml"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "TelefonRehberi.BLL/1.0.0": {
+      "type": "project",
+      "path": "../TelefonRehberi.BLL/TelefonRehberi.BLL.csproj",
+      "msbuildProject": "../TelefonRehberi.BLL/TelefonRehberi.BLL.csproj"
+    },
+    "TelefonRehberi.Core/1.0.0": {
+      "type": "project",
+      "path": "../TelefonRehberi.core/TelefonRehberi.Core.csproj",
+      "msbuildProject": "../TelefonRehberi.core/TelefonRehberi.Core.csproj"
+    },
+    "TelefonRehberi.Entities/1.0.0": {
+      "type": "project",
+      "path": "../TelefonRehberi.Entities/TelefonRehberi.Entities.csproj",
+      "msbuildProject": "../TelefonRehberi.Entities/TelefonRehberi.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "TelefonRehberi.BLL >= 1.0.0",
+      "TelefonRehberi.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Sinan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Sinan\\Desktop\\mobile-contact-form\\TelefonRehberi.WFUI\\TelefonRehberi.WFUI.csproj",
+      "projectName": "TelefonRehberi.WFUI",
+      "projectPath": "C:\\Users\\Sinan\\Desktop\\mobile-contact-form\\TelefonRehberi.WFUI\\TelefonRehberi.WFUI.csproj",
+      "packagesPath": "C:\\Users\\Sinan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sinan\\Desktop\\mobile-contact-form\\TelefonRehberi.WFUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Sinan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Sinan\\Desktop\\mobile-contact-form\\TelefonRehberi.BLL\\TelefonRehberi.BLL.csproj": {
+              "projectPath": "C:\\Users\\Sinan\\Desktop\\mobile-contact-form\\TelefonRehberi.BLL\\TelefonRehberi.BLL.csproj"
+            },
+            "C:\\Users\\Sinan\\Desktop\\mobile-contact-form\\TelefonRehberi.Entities\\TelefonRehberi.Entities.csproj": {
+              "projectPath": "C:\\Users\\Sinan\\Desktop\\mobile-contact-form\\TelefonRehberi.Entities\\TelefonRehberi.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'CsvHelper 2.11.0' paketi, proje hedef çerçevesi '.NETCoreApp,Version=v3.1' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "CsvHelper",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

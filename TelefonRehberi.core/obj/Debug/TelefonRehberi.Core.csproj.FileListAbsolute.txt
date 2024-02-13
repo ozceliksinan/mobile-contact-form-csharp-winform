@@ -1,0 +1,33 @@
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.core\bin\Debug\TelefonRehberi.core.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.core\bin\Debug\TelefonRehberi.core.pdb
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.core\bin\Debug\TelefonRehberi.Entities.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.core\bin\Debug\TelefonRehberi.Entities.pdb
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.Core.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.Core.csproj.CopyComplete
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.core.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.core.pdb
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.core\bin\Debug\TelefonRehberi.core.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.core\bin\Debug\TelefonRehberi.core.pdb
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.core\bin\Debug\TelefonRehberi.Entities.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.core\bin\Debug\TelefonRehberi.Entities.pdb
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.Core.csprojAssemblyReference.cache
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.Core.csproj.CopyComplete
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.core.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.core.pdb
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.core\bin\Debug\TelefonRehberi.core.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.core\bin\Debug\TelefonRehberi.core.pdb
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.core\bin\Debug\TelefonRehberi.Entities.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.core\bin\Debug\TelefonRehberi.Entities.pdb
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.Core.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.Core.csproj.CopyComplete
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.core.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.core\obj\Debug\TelefonRehberi.core.pdb

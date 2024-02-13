@@ -1,0 +1,96 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TelefonRehberi.WFUI/1.0.0": {
+        "dependencies": {
+          "TelefonRehberi.BLL": "1.0.0",
+          "TelefonRehberi.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TelefonRehberi.WFUI.dll": {}
+        }
+      },
+      "CsvHelper/2.11.0": {
+        "runtime": {
+          "lib/net40-client/CsvHelper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.11.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "TelefonRehberi.BLL/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "2.11.0",
+          "Newtonsoft.Json": "12.0.3",
+          "TelefonRehberi.Core": "1.0.0",
+          "TelefonRehberi.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TelefonRehberi.BLL.dll": {}
+        }
+      },
+      "TelefonRehberi.Core/1.0.0": {
+        "dependencies": {
+          "TelefonRehberi.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TelefonRehberi.core.dll": {}
+        }
+      },
+      "TelefonRehberi.Entities/1.0.0": {
+        "runtime": {
+          "TelefonRehberi.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TelefonRehberi.WFUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvHelper/2.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mLrJK4Xeg7s7iZ2mN1NB8n8n81kPczYHOCldAyC0m6OteTJgMOdKsCd+rooXuEUzqGq+12JU8qdNAR4uDFXyYQ==",
+      "path": "csvhelper/2.11.0",
+      "hashPath": "csvhelper.2.11.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "TelefonRehberi.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TelefonRehberi.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TelefonRehberi.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
