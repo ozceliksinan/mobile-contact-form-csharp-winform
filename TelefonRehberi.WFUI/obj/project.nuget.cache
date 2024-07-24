@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "ADofHLeq+zRZoZQZYHpm7Z2aMxWxM6sVDgBubJUo6sskBVJIuuzITfTisYX2gbU7/Kc3zG+pLYfQKmz3riy2zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sinan\\Desktop\\mobile-contact-form\\TelefonRehberi.WFUI\\TelefonRehberi.WFUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sinan\\.nuget\\packages\\csvhelper\\2.11.0\\csvhelper.2.11.0.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'CsvHelper 2.11.0' paketi, proje hedef çerçevesi '.NETCoreApp,Version=v3.1' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "CsvHelper",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

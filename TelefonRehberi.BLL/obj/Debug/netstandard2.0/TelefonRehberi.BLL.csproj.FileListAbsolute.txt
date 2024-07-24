@@ -1,0 +1,43 @@
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.BLL.deps.json
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.BLL.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.BLL.pdb
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.core.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.Entities.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.core.pdb
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.Entities.pdb
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.AssemblyInfo.cs
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.csproj.CopyComplete
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.pdb
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.BLL.deps.json
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.BLL.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.BLL.pdb
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.core.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.Entities.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.core.pdb
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.Entities.pdb
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.csprojAssemblyReference.cache
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.AssemblyInfoInputs.cache
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.AssemblyInfo.cs
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.csproj.CopyComplete
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.pdb
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.BLL.deps.json
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.BLL.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.BLL.pdb
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.core.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.Entities.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.core.pdb
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.BLL\bin\Debug\netstandard2.0\TelefonRehberi.Entities.pdb
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.AssemblyInfo.cs
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.csproj.CopyComplete
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.BLL\obj\Debug\netstandard2.0\TelefonRehberi.BLL.pdb

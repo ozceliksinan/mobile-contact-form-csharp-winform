@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "vnN7wbJj3NxBa4kw7jqV07dVsA+8c7mc5VwJd+jNSIq9RZ6hp06ARiLPEw7p40Y2otlGkaBjdgTQFdOdwE+R8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sinan\\Desktop\\mobile-contact-form\\TelefonRehberi.BLL\\TelefonRehberi.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sinan\\.nuget\\packages\\csvhelper\\2.11.0\\csvhelper.2.11.0.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'Newtonsoft.Json' 12.0.3 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-5crp-9r3c-p9vr güvenlik açığı var",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'CsvHelper 2.11.0' paketi, proje hedef çerçevesi '.NETStandard,Version=v2.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "CsvHelper",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

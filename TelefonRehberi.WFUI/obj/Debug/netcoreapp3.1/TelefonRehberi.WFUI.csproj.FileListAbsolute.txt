@@ -1,0 +1,79 @@
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.AnaForm.resources
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.Form1.resources
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.Properties.Resources.resources
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.AssemblyInfo.cs
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.exe
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.deps.json
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.runtimeconfig.json
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.runtimeconfig.dev.json
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.pdb
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.BLL.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.core.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.Entities.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.BLL.pdb
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.Entities.pdb
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.core.pdb
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.xml
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.csproj.CopyComplete
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.dll
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.pdb
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.genruntimeconfig.cache
+C:\Users\Monster\source\repos\TelefonRehberiUygulamasi1\TelefonRehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.exe
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.deps.json
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.runtimeconfig.json
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.runtimeconfig.dev.json
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.pdb
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.BLL.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.core.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.Entities.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.BLL.pdb
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.Entities.pdb
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.core.pdb
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.csprojAssemblyReference.cache
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.AnaForm.resources
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.Form1.resources
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.Properties.Resources.resources
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.csproj.GenerateResource.cache
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.AssemblyInfoInputs.cache
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.AssemblyInfo.cs
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.csproj.CopyComplete
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.dll
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.pdb
+C:\Users\Monster\Documents\C# Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.genruntimeconfig.cache
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.exe
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.deps.json
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.runtimeconfig.json
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.WFUI.pdb
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.BLL.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.core.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.Entities.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.BLL.pdb
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.Entities.pdb
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\bin\Debug\netcoreapp3.1\TelefonRehberi.core.pdb
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.AnaForm.resources
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.Form1.resources
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.Properties.Resources.resources
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.AssemblyInfo.cs
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.csproj.CopyComplete
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.dll
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.pdb
+C:\Users\Monster\Desktop\githun ön yüz\Telefon Rehberi\TelefonRehberi.WFUI\obj\Debug\netcoreapp3.1\TelefonRehberi.WFUI.genruntimeconfig.cache

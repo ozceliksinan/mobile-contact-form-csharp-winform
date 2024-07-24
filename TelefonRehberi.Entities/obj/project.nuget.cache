@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "icj+RhXdPxV017PPnAsv+9nNQ04exAW+ewtZAJxuZWVuaTMl5x6KmVgSAdzEFfz+ZO/xFFdM4BSsWHbXwgO8wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sinan\\Desktop\\mobile-contact-form\\TelefonRehberi.Entities\\TelefonRehberi.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sinan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sinan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
